@@ -10,7 +10,7 @@ System.out.println("hello");
 
 int i=12;
 
-
+int b=12;
 
 
 
